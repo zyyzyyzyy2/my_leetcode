@@ -1,6 +1,10 @@
 {
     "files.associations": {
         "vector": "cpp",
-        "xhash": "cpp"
+        "xhash": "cpp",
+        "unordered_map": "cpp",
+        "utility": "cpp",
+        "cstdlib": "cpp",
+        "algorithm": "cpp"
     }
 }
